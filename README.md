@@ -1,8 +1,8 @@
 ### Capstone Projects
-- [Capstone Project IV: Data Visualisation](#capstone-project-iv--data-visualisation)
-- [Capstone Project V: Databases](#capstone-project-v--databases)
-- [Capstone Project VI: Image Processing](#capstone-project-vi--image-processing)
-- [Capstone Project VII: Unsupervised Machine Learning](#capstone-project-vii--unsupervised-machine-learning)
+- [Capstone Project IV: Data Visualisation](https://github.com/lifefir3/finalCapstone/tree/master/Capstone%20Project%20IV)
+- [Capstone Project V: Databases](https://github.com/lifefir3/finalCapstone/tree/master/Capstone%20Project%20V)
+- [Capstone Project VI: Image Processing](https://github.com/lifefir3/finalCapstone/tree/master/Capstone%20Project%20VI)
+- [Capstone Project VII: Unsupervised Machine Learning](https://github.com/lifefir3/finalCapstone/tree/master/Capstone%20Project%20VII)
 
 ### Capstone Project IV: Data Visualisation
 Conduct an exploratory study of the current state of renewable energy and assess the progress towards a complete transition away from fossil fuels.
